@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cccfa6ea-28aa-4994-88d0-d0c7c704ede6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YU3lotZgtSVgvqm0Do2J6GXSqj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/dip/fix" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/dip/fix" />
+      <recent name="$PROJECT_DIR$/src/main/java/lsp/fix" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dip.violation" />
+      <recent name="isp.fix" />
+      <recent name="lsp.fix" />
+      <recent name="lsp.violation" />
+      <recent name="ocp.fix" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="srp.fix" />
+      <recent name="srp.violation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SuperBIOS">
+    <configuration name="CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dirtyProcedural.CLI" />
+      <module name="Calculadora.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solid.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperBIOS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dip.fix.SuperBIOS" />
+      <module name="Calculadora.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dip.fix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SuperBIOS" />
+        <item itemvalue="Application.CLI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cccfa6ea-28aa-4994-88d0-d0c7c704ede6" name="Default Changelist" comment="" />
+      <created>1582983498092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582983498092</updated>
+      <workItem from="1582983502885" duration="9385000" />
+      <workItem from="1583189268459" duration="15000" />
+      <workItem from="1583189308603" duration="8626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Project_Structure" timestamp="1583201235096">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1583201235096" />
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1583200152728">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1583200152728" />
+    <state x="414" y="266" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583195083438">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="414" y="266" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.800@0.0.1280.800" timestamp="1583195083438" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583194377945">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1583194377945" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1583094362670">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1583094362670" />
+    <state width="1238" height="205" key="GridCell.Tab.0.bottom" timestamp="1583201236225">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="205" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583201236225" />
+    <state width="1238" height="205" key="GridCell.Tab.0.center" timestamp="1583201236224">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="205" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583201236224" />
+    <state width="1238" height="205" key="GridCell.Tab.0.left" timestamp="1583201236224">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="205" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583201236224" />
+    <state width="1238" height="205" key="GridCell.Tab.0.right" timestamp="1583201236224">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="205" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583201236224" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom" timestamp="1583095217803">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583095217803" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center" timestamp="1583095217802">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1583095217802" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left" timestamp="1583095217802">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1583095217802" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right" timestamp="1583095217803">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1583095217803" />
+    <state x="34" y="10" key="new project wizard" timestamp="1582983545845">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="34" y="10" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1582983545845" />
+    <state x="402" y="14" key="refactoring.ChangeSignatureDialog" timestamp="1583197491844">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="402" y="14" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1583197491844" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1583200255196">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1583200255196" />
+  </component>
+</project>
